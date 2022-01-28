@@ -1,6 +1,6 @@
 # Graph Kernel Attention Transformers (GKAT)
 
-This repo contains the paper [Graph Kernel Attention Transformers, Krzysztof Choromanski, Han Lin, Haoxian Chen, Jack Parker-Holder](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf) of our current paper, which mainly focus on theoretical aspects of graph kernel attention transformers (GKAT) in section 4 as well as experiments in section 5 of our current version. Some additional theoretical results is contained in this initial version. 
+This repo contains the paper [Graph Kernel Attention Transformers (GKAT)](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf), which is an initial version of our current paper. This GKAT paper covers more theoretical results of graph kernel attention transformers than our current paper. 
 
 ![GKAT_description](https://github.com/HL-hanlin/GKAT/blob/main/img/gkat-figure-one.jpg)
 
