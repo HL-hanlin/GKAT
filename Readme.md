@@ -1,6 +1,6 @@
 # Graph Kernel Attention Transformers (GKAT)
 
-This repo contains the paper [Graph Kernel Attention Transformers (GKAT)](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf), which is an initial version of our current paper [From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers](http://arxiv.org/abs/2107.07999). This GKAT paper covers more theoretical results of graph kernel attention transformers than our current paper. 
+This repo contains the paper [Graph Kernel Attention Transformers (GKAT)](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf), which is an initial version of our current paper [From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers](http://arxiv.org/abs/2107.07999). This GKAT paper includes a new neural network graph sketches (graphots) and additional theoretical guarantees on GKAT than our current version.
 
 ![GKAT_description](https://github.com/HL-hanlin/GKAT/blob/main/img/gkat-figure-one.jpg)
 
