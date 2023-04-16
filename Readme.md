@@ -10,6 +10,7 @@ This repo contains the implementation of the GKAT algorithm in the paper [From b
 
 If you think this project is helpful, please feel free to give a ⭐️ and cite our paper:
 
+``` bibtex
 @inproceedings{choromanski2022block,
   title={From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers},
   author={Choromanski, Krzysztof and Lin, Han and Chen, Haoxian and Zhang, Tianyi and Sehanobish, Arijit and Likhosherstov, Valerii and Parker-Holder, Jack and Sarlos, Tamas and Weller, Adrian and Weingarten, Thomas},
@@ -18,3 +19,4 @@ If you think this project is helpful, please feel free to give a ⭐️ and cite
   year={2022},
   organization={PMLR}
 }
+```
